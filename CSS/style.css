@@ -1,0 +1,11 @@
+img.head-img {
+    width: 100%;
+}
+p img {
+    float: left;
+    margin-right: 15px;
+}
+.intro {
+border-style: groove;
+display: inline-block;
+}
